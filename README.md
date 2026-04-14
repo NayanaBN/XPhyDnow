@@ -22,7 +22,9 @@ The model uses a **Dual-Encoder ConvLSTM** architecture:
 2. **Physics Encoder:** Extracts thermodynamic states from atmospheric variables (CAPE, Moisture).
 3. **PCS-Gated Fusion:** A custom attention layer that dynamically weights the vision stream based on physical validity.
 
-*(Replace with actual architecture diagram from Chapter 5)*
+   
+
+<img width="886" height="523" alt="Screenshot 2026-04-08 214450" src="https://github.com/user-attachments/assets/5a3fbbd5-884a-459b-81fe-aa95e7fe3b5c" />
 
 ---
 
